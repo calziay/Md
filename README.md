@@ -3531,6 +3531,7 @@ Result:
 - UsedAt: Exact time coupon applied
 
 ---
+
 # 21. REVIEW Table
 
 ## 📌 Kegunaan Utama
@@ -3596,6 +3597,8 @@ Customer dapat edit review mereka sendiri
 
 Update rating atau comment
 UpdatedAt = now()
+```
+
 ---
 # 22. RETURN Table
 
